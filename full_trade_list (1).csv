@@ -1,0 +1,109 @@
+trade_num,direction,entry_time,entry_price,stop_price,exit_time,exit_price,pnl_r,outcome,reason
+1,LONG,2026-01-01 20:15:00,896.25869,881.34397,2026-01-01 22:30:00,926.08813,2.0,win,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+2,SHORT,2026-01-01 21:45:00,903.27916,907.79556,2026-01-01 22:00:00,907.79556,-1.0,loss,CHOCH bearish | Liquidity sweep (bearish)
+3,LONG,2026-01-01 23:15:00,930.63182,924.41749,2026-01-02 01:00:00,924.41749,-1.0,loss,HTF bias aligned (bullish) | CHOCH bullish | Sweep present but direction mismatch
+4,LONG,2026-01-02 00:45:00,931.81669,927.1576,2026-01-02 01:00:00,927.1576,-1.0,loss,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+5,LONG,2026-01-02 02:15:00,923.83235,919.21319,2026-01-02 02:30:00,919.21319,-1.0,loss,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+6,LONG,2026-01-02 03:45:00,915.30494,910.72842,2026-01-02 04:00:00,910.72842,-1.0,loss,HTF bias aligned (bullish) | BOS bullish | Liquidity sweep (bullish)
+7,LONG,2026-01-02 05:15:00,909.26637,904.72004,2026-01-02 05:30:00,904.72004,-1.0,loss,HTF bias aligned (bullish) | BOS bullish | Liquidity sweep (bullish)
+8,LONG,2026-01-02 08:45:00,898.81584,894.32176,2026-01-02 09:00:00,907.804,2.0,win,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+9,SHORT,2026-01-02 10:15:00,916.12927,920.70991,2026-01-02 10:30:00,920.70991,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+10,SHORT,2026-01-02 11:45:00,944.2426,951.24692,2026-01-02 13:00:00,951.24692,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+11,LONG,2026-01-02 13:15:00,959.11711,899.60522,2026-01-02 23:00:00,922.44716,-0.62,time_exit,CHOCH bullish | Liquidity sweep (bullish)
+12,LONG,2026-01-02 14:45:00,964.17074,899.60522,2026-01-03 00:30:00,899.60522,-1.0,loss,CHOCH bullish | Liquidity sweep (bullish)
+13,LONG,2026-01-02 16:15:00,957.84404,899.60522,2026-01-03 00:30:00,899.60522,-1.0,loss,HTF bias aligned (bullish) | BOS bullish | Liquidity sweep (bullish)
+14,SHORT,2026-01-03 21:45:00,800.58797,804.86649,2026-01-03 22:15:00,792.03094,2.0,win,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+15,SHORT,2026-01-03 23:15:00,779.54694,786.5122,2026-01-04 00:30:00,765.61643,2.0,win,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+16,SHORT,2026-01-04 00:45:00,758.03955,771.86116,2026-01-04 03:15:00,730.39633,2.0,win,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+17,SHORT,2026-01-04 02:15:00,751.416,756.24767,2026-01-04 02:30:00,741.75267,2.0,win,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+18,SHORT,2026-01-04 03:45:00,724.50985,736.2729,2026-01-04 05:15:00,736.2729,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+19,SHORT,2026-01-04 05:15:00,730.95019,734.96438,2026-01-04 05:30:00,734.96438,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+20,LONG,2026-01-04 06:45:00,740.34927,736.64752,2026-01-04 07:00:00,736.64752,-1.0,loss,CHOCH bullish | Liquidity sweep (bullish)
+21,SHORT,2026-01-04 08:15:00,731.07701,743.51811,2026-01-04 10:00:00,706.19482,2.0,win,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+22,SHORT,2026-01-04 09:45:00,715.56597,728.51906,2026-01-04 11:45:00,728.51906,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+23,SHORT,2026-01-04 11:15:00,715.3225,718.89911,2026-01-04 11:30:00,718.89911,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+24,SHORT,2026-01-04 12:45:00,734.45106,738.12332,2026-01-04 14:30:00,727.10655,2.0,win,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+25,LONG,2026-01-04 14:15:00,730.69515,722.67306,2026-01-04 14:45:00,722.67306,-1.0,loss,CHOCH bullish | Liquidity sweep (bullish)
+26,LONG,2026-01-04 15:45:00,705.69103,702.16257,2026-01-04 16:00:00,712.74794,2.0,win,CHOCH bullish | Liquidity sweep (bullish)
+27,LONG,2026-01-04 17:15:00,708.24659,704.70535,2026-01-04 17:30:00,715.32905,2.0,win,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+28,LONG,2026-01-04 18:45:00,714.30592,710.73439,2026-01-04 19:00:00,710.73439,-1.0,loss,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+29,LONG,2026-01-04 20:15:00,725.75263,722.12386,2026-01-04 20:30:00,733.01015,2.0,win,HTF bias aligned (bullish) | CHOCH bullish | Sweep present but direction mismatch
+30,LONG,2026-01-04 21:45:00,719.40814,715.8111,2026-01-04 22:15:00,715.8111,-1.0,loss,HTF bias aligned (bullish) | CHOCH bullish | Sweep present but direction mismatch
+31,LONG,2026-01-05 01:15:00,733.35777,725.3409,2026-01-05 02:30:00,725.3409,-1.0,loss,HTF bias aligned (bullish) | CHOCH bullish | Sweep present but direction mismatch
+32,LONG,2026-01-05 02:45:00,724.53818,720.91549,2026-01-05 03:00:00,720.91549,-1.0,loss,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+33,LONG,2026-01-05 04:15:00,694.23457,690.76339,2026-01-05 04:30:00,690.76339,-1.0,loss,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+34,SHORT,2026-01-05 05:45:00,685.71884,734.71487,2026-01-05 15:30:00,638.19069,0.97,time_exit,CHOCH bearish | Liquidity sweep (bearish)
+35,SHORT,2026-01-05 09:15:00,679.26072,693.64284,2026-01-05 11:15:00,650.49648,2.0,win,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+36,SHORT,2026-01-05 10:45:00,656.23215,693.64284,2026-01-05 20:30:00,649.39695,0.18,time_exit,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+37,SHORT,2026-01-05 12:15:00,650.63273,693.64284,2026-01-05 22:00:00,661.56922,-0.25,time_exit,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+38,SHORT,2026-01-05 13:45:00,651.42736,693.64284,2026-01-05 23:30:00,668.46173,-0.4,time_exit,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+39,SHORT,2026-01-05 15:15:00,643.75132,647.16368,2026-01-05 15:30:00,636.92658,2.0,win,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+40,SHORT,2026-01-05 16:45:00,636.9442,640.37152,2026-01-05 17:00:00,640.37152,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+41,SHORT,2026-01-05 18:15:00,644.63489,651.85285,2026-01-05 19:15:00,651.85285,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+42,SHORT,2026-01-05 21:45:00,656.7007,659.9842,2026-01-05 22:00:00,659.9842,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+43,SHORT,2026-01-06 01:15:00,664.36695,667.68878,2026-01-06 01:30:00,667.68878,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Liquidity sweep (bearish)
+44,LONG,2026-01-06 04:45:00,676.74935,668.66619,2026-01-06 09:30:00,692.91565,2.0,win,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+45,LONG,2026-01-06 06:15:00,670.4687,667.11636,2026-01-06 06:30:00,677.17339,2.0,win,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+46,SHORT,2026-01-06 07:45:00,685.16619,688.59202,2026-01-06 08:00:00,688.59202,-1.0,loss,CHOCH bearish | Liquidity sweep (bearish)
+47,SHORT,2026-01-06 09:15:00,686.28389,689.71531,2026-01-06 09:30:00,689.71531,-1.0,loss,CHOCH bearish | Liquidity sweep (bearish)
+48,SHORT,2026-01-06 10:45:00,686.88965,693.17051,2026-01-06 13:30:00,693.17051,-1.0,loss,CHOCH bearish | Liquidity sweep (bearish)
+49,LONG,2026-01-06 12:15:00,679.86223,676.46292,2026-01-06 12:30:00,686.66085,2.0,win,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+50,SHORT,2026-01-06 13:45:00,698.76129,702.2551,2026-01-06 14:00:00,702.2551,-1.0,loss,CHOCH bearish | Liquidity sweep (bearish)
+51,SHORT,2026-01-06 15:15:00,720.46066,724.06296,2026-01-06 15:30:00,724.06296,-1.0,loss,CHOCH bearish | Liquidity sweep (bearish)
+52,SHORT,2026-01-06 16:45:00,721.31196,724.91852,2026-01-06 17:00:00,724.91852,-1.0,loss,CHOCH bearish | Liquidity sweep (bearish)
+53,LONG,2026-01-06 18:15:00,717.29616,709.2582,2026-01-06 18:45:00,709.2582,-1.0,loss,HTF bias aligned (bullish) | CHOCH bullish | Sweep present but direction mismatch
+54,LONG,2026-01-06 19:45:00,720.39776,716.79577,2026-01-06 20:00:00,727.60174,2.0,win,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+55,LONG,2026-01-06 21:15:00,733.62079,718.85357,2026-01-06 22:30:00,718.85357,-1.0,loss,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+56,LONG,2026-01-06 22:45:00,725.45163,717.59154,2026-01-06 23:30:00,741.17183,2.0,win,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+57,LONG,2026-01-07 02:15:00,745.57773,717.59154,2026-01-07 12:00:00,767.76729,0.79,time_exit,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+58,LONG,2026-01-07 03:45:00,769.49453,717.59154,2026-01-07 13:30:00,761.71044,-0.15,time_exit,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+59,LONG,2026-01-07 05:15:00,778.95076,717.59154,2026-01-07 15:00:00,782.38046,0.06,time_exit,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+60,LONG,2026-01-07 06:45:00,777.92941,717.59154,2026-01-07 16:30:00,796.62069,0.31,time_exit,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+61,LONG,2026-01-07 12:15:00,767.76729,763.92845,2026-01-07 12:45:00,763.92845,-1.0,loss,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+62,LONG,2026-01-07 13:45:00,761.71044,752.81533,2026-01-07 15:00:00,779.50066,2.0,win,HTF bias aligned (bullish) | BOS bullish | Liquidity sweep (bullish)
+63,LONG,2026-01-07 17:15:00,804.21351,752.81533,2026-01-08 03:00:00,859.71725,1.08,time_exit,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+64,LONG,2026-01-07 18:45:00,817.50566,752.81533,2026-01-08 04:30:00,869.51571,0.8,time_exit,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+65,LONG,2026-01-07 20:15:00,814.51304,752.81533,2026-01-08 06:00:00,883.52468,1.12,time_exit,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+66,LONG,2026-01-07 21:45:00,825.05523,752.81533,2026-01-08 07:30:00,897.3142,1.0,time_exit,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+67,LONG,2026-01-08 01:15:00,851.69602,752.81533,2026-01-08 11:00:00,952.57855,1.02,time_exit,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+68,LONG,2026-01-08 02:45:00,857.8734,752.81533,2026-01-08 12:30:00,948.30188,0.86,time_exit,HTF bias aligned (bullish) | BOS bullish | Liquidity sweep (bullish)
+69,LONG,2026-01-08 04:15:00,864.80886,752.81533,2026-01-08 14:00:00,934.78905,0.62,time_exit,HTF bias aligned (bullish) | BOS bullish | Liquidity sweep (bullish)
+70,LONG,2026-01-08 05:45:00,881.0347,876.62953,2026-01-08 06:00:00,889.84505,2.0,win,HTF bias aligned (bullish) | BOS bullish
+71,LONG,2026-01-08 07:15:00,888.12811,883.68747,2026-01-08 07:30:00,897.0094,2.0,win,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+72,LONG,2026-01-08 08:45:00,920.02079,906.25901,2026-01-08 09:30:00,947.54435,2.0,win,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+73,LONG,2026-01-08 10:15:00,949.49461,944.74714,2026-01-08 10:45:00,958.98956,2.0,win,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+74,LONG,2026-01-08 11:45:00,947.72769,942.15154,2026-01-08 12:00:00,942.15154,-1.0,loss,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+75,LONG,2026-01-08 13:15:00,944.2383,939.51711,2026-01-08 13:30:00,939.51711,-1.0,loss,HTF bias aligned (bullish) | BOS bullish | Sweep present but direction mismatch
+76,LONG,2026-01-08 18:45:00,950.25966,945.50836,2026-01-08 19:15:00,959.76226,2.0,win,HTF bias aligned (bullish) | CHOCH bullish | Sweep present but direction mismatch
+77,LONG,2026-01-08 20:15:00,953.74616,947.13266,2026-01-08 20:30:00,947.13266,-1.0,loss,HTF bias aligned (bullish) | CHOCH bullish | Liquidity sweep (bullish)
+78,SHORT,2026-01-09 17:45:00,783.49583,849.78927,2026-01-10 03:30:00,825.76171,-0.64,time_exit,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+79,SHORT,2026-01-09 23:15:00,806.41856,810.45065,2026-01-10 00:15:00,810.45065,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+80,SHORT,2026-01-10 00:45:00,816.55178,821.48311,2026-01-10 01:00:00,821.48311,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+81,LONG,2026-01-10 02:15:00,817.89694,796.59645,2026-01-10 12:00:00,832.23148,0.67,time_exit,CHOCH bullish | Liquidity sweep (bullish)
+82,LONG,2026-01-10 03:45:00,825.76171,796.59645,2026-01-10 13:30:00,813.61539,-0.42,time_exit,CHOCH bullish | Liquidity sweep (bullish)
+83,LONG,2026-01-10 05:15:00,832.61947,796.59645,2026-01-10 15:00:00,804.51589,-0.78,time_exit,CHOCH bullish | Liquidity sweep (bullish)
+84,LONG,2026-01-10 08:45:00,835.61471,825.99113,2026-01-10 12:30:00,825.99113,-1.0,loss,CHOCH bullish | Liquidity sweep (bullish)
+85,SHORT,2026-01-10 10:15:00,839.90919,844.10873,2026-01-10 11:00:00,831.51009,2.0,win,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+86,SHORT,2026-01-10 11:45:00,836.26288,840.4442,2026-01-10 12:00:00,840.4442,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+87,SHORT,2026-01-10 13:15:00,819.64317,844.1456,2026-01-10 21:30:00,844.1456,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Liquidity sweep (bearish)
+88,SHORT,2026-01-10 14:45:00,809.25816,844.1456,2026-01-10 21:30:00,844.1456,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Liquidity sweep (bearish)
+89,SHORT,2026-01-10 16:15:00,821.4127,827.87589,2026-01-10 17:30:00,827.87589,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+90,LONG,2026-01-10 17:45:00,824.85254,804.74229,2026-01-10 23:30:00,865.07303,2.0,win,CHOCH bullish | Liquidity sweep (bullish)
+91,LONG,2026-01-10 19:15:00,815.39862,811.32163,2026-01-10 19:30:00,823.55261,2.0,win,CHOCH bullish | Liquidity sweep (bullish)
+92,SHORT,2026-01-11 08:45:00,858.20845,887.61839,2026-01-11 18:30:00,832.49287,0.87,time_exit,HTF bias aligned (bearish) | CHOCH bearish | Liquidity sweep (bearish)
+93,SHORT,2026-01-11 10:15:00,852.6161,887.61839,2026-01-11 20:00:00,828.5808,0.69,time_exit,HTF bias aligned (bearish) | CHOCH bearish | Liquidity sweep (bearish)
+94,SHORT,2026-01-11 11:45:00,851.99832,887.61839,2026-01-11 21:30:00,818.95469,0.93,time_exit,HTF bias aligned (bearish) | CHOCH bearish | Liquidity sweep (bearish)
+95,SHORT,2026-01-11 13:15:00,852.20566,887.61839,2026-01-11 23:00:00,818.37891,0.96,time_exit,CHOCH bearish | Liquidity sweep (bearish)
+96,SHORT,2026-01-12 00:45:00,822.43724,826.54942,2026-01-12 01:00:00,826.54942,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+97,SHORT,2026-01-12 04:15:00,797.93146,802.87925,2026-01-12 04:45:00,788.03589,2.0,win,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+98,SHORT,2026-01-12 05:45:00,791.24787,795.20411,2026-01-12 06:15:00,795.20411,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+99,SHORT,2026-01-12 07:15:00,796.81553,802.06468,2026-01-12 07:30:00,786.31724,2.0,win,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+100,SHORT,2026-01-12 08:45:00,783.3516,787.26835,2026-01-12 10:00:00,787.26835,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Sweep present but direction mismatch
+101,SHORT,2026-01-12 10:15:00,786.73808,790.67177,2026-01-12 10:30:00,778.8707,2.0,win,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+102,SHORT,2026-01-12 11:45:00,781.97136,785.88122,2026-01-12 12:00:00,785.88122,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Sweep present but direction mismatch
+103,SHORT,2026-01-12 13:15:00,779.3286,790.56093,2026-01-12 15:45:00,790.56093,-1.0,loss,HTF bias aligned (bearish) | CHOCH bearish | Liquidity sweep (bearish)
+104,SHORT,2026-01-12 16:45:00,799.38491,803.38184,2026-01-12 17:00:00,803.38184,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+105,SHORT,2026-01-12 18:15:00,817.71974,821.80833,2026-01-12 18:30:00,821.80833,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+106,SHORT,2026-01-12 19:45:00,817.11266,821.19823,2026-01-12 20:00:00,821.19823,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+107,SHORT,2026-01-12 21:15:00,825.08364,829.20906,2026-01-12 21:45:00,829.20906,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
+108,SHORT,2026-01-12 22:45:00,821.09688,828.94808,2026-01-12 23:45:00,828.94808,-1.0,loss,HTF bias aligned (bearish) | BOS bearish | Liquidity sweep (bearish)
