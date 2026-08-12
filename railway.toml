@@ -1,0 +1,5 @@
+[project]
+name = "apa-signal-bot"
+
+[deploy]
+startCommand = "python bot_runner.py"
